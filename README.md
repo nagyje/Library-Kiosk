@@ -8,3 +8,5 @@ add a book, remove a book, and change the key (author, title, publisher) that th
 Functionality for a preorder transversal was added to check if the key sorting functions worked properly.
 
 Creating an AVL tree from scratch was not required, so I sourced one from online. 
+Book.cs and Program.cs were created by me, and I added functionality and tweaked
+the base code of AVLTree.cs.
